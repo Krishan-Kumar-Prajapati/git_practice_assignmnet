@@ -18,7 +18,7 @@ if(s==x){
 
     console.log("No");
 
-}else if(s!=x){
+}else {
  
    
 console.log("Yes");
